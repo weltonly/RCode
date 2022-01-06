@@ -1,3 +1,5 @@
 My First Text File
 
 Here is the first line of text.
+
+Here is the second line of text.
